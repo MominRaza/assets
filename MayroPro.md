@@ -9,35 +9,77 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
 ## Screenshots
 
 ### Pixle 2 XL
+#### App Icon & Splash Screen
 <p float="left">
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/6.png" width="300" alt="Launcher Icon"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/5.png" width="300" alt="Splash Screen"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/1.png" width="300" alt="Questions"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/2.png" width="300" alt="Question"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/4.png" width="300" alt="Question View"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/3.png" width="300" alt="Question View"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/10.png" width="300" alt="App Drawer"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/9.png" width="300" alt="App Drawer"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/7.png" width="300" alt="Users"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/8.png" width="300" alt="Users"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/11.png" width="300" alt="User Menu"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/12.png" width="300" alt="User Menu"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/6.png" width="300" alt="App Icon"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/5.png" width="300" alt="Splash Screen"/>
+</p>
+
+#### Recent Questions
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/1.png" width="300" alt="Recent Questions"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/2.png" width="300" alt="Recent Question"/>
+</p>
+
+#### Question View
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/4.png" width="300" alt="Question View"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/3.png" width="300" alt="Question View"/>
+</p>
+
+#### App Drawer
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/10.png" width="300" alt="App Drawer"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/9.png" width="300" alt="App Drawer"/>
+</p>
+
+#### Users
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/7.png" width="300" alt="Users"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/8.png" width="300" alt="Users"/>
+</p>
+
+#### User Menu
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/11.png" width="300" alt="User Menu"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/12.png" width="300" alt="User Menu"/>
 </p>
 
 ### iPad / iPad Pro
+#### Q&A
 <p float="left">
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/2.png" width="700" alt="Questions"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/1.png" width="700" alt="Questions"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/4.png" width="400" alt="User Menu"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/3.png" width="400" alt="User Menu"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/5.png" width="700" alt="Ask A Question"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/6.png" width="700" alt="Ask A Question"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/10.png" width="600" alt="User"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/9.png" width="600" alt="User"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/11.png" width="400" alt="Users"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/12.png" width="400" alt="Users"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/8.png" width="700" alt="Categories"/>
-<img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/7.png" width="700" alt="Categories"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/2.png" width="700" alt="Q&A"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/1.png" width="700" alt="Q&A"/>
+</p>
+
+#### User Menu
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/4.png" width="400" alt="User Menu"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/3.png" width="400" alt="User Menu"/>
+</p>
+
+#### Ask A Question
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/5.png" width="700" alt="Ask A Question"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/6.png" width="700" alt="Ask A Question"/>
+</p>
+
+#### User
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/10.png" width="600" alt="User"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/9.png" width="600" alt="User"/>
+</p>
+
+#### Users
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/11.png" width="400" alt="Users"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/12.png" width="400" alt="Users"/>
+</p>
+
+#### Categories
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/8.png" width="700" alt="Categories"/>
+  <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/7.png" width="700" alt="Categories"/>
 </p>
 
 
