@@ -102,7 +102,7 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
 
 ## Buy Now
 
-<a href="https://www.question2answer.org/qa/89985/paypal-payment-discount-version-mayro-google-material-design">
+<a href="https://www.question2answer.org/qa/89985/paypal-payment-discount-version-mayro-google-material-design?show=90525#a90525">
   <img type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 </a>
 
