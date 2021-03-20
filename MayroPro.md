@@ -100,11 +100,20 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
 * Multilingual support
 * Right to Left Support
 
+## Price
+~91$~ 80$ or ~6600₹~ 5800₹ (INR)
+
 ## Buy Now
 
-<a href="https://www.question2answer.org/qa/89985/paypal-payment-discount-version-mayro-google-material-design?show=90525#a90525">
+**PayPal for international:** https://paypal.me/mominr082
+
+or
+
+**UPI for Indians:** message me
+
+<!-- <a href="https://www.question2answer.org/qa/89985/paypal-payment-discount-version-mayro-google-material-design?show=90525#a90525">
   <img type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-</a>
+</a> -->
 
 
 ## Installation
