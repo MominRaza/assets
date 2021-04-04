@@ -6,10 +6,28 @@
 Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
 
 
+## Features
+
+* Google Material Design
+* Mobile first, clean content focused, responsive layout designed for redability
+* Easy to install and setup
+* Developer friendly
+* Dark Theme Support with three options
+  - System default
+  - light mode
+  - dark mode
+* Progressive Web App (PWA) support
+  - Installable
+  - Fast and reliable
+  - PWA Optimized
+* Multilingual support
+* Right to Left Support
+
+
 ## Screenshots
 
 ### Pixle 2 XL
-#### App Icon & Splash Screen
+#### App Icon & Splash Screen (Progressive Web App)
 <p float="left">
   <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/6.png" width="300" alt="App Icon"/>
   <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro%20Mobile/5.png" width="300" alt="Splash Screen"/>
@@ -82,23 +100,6 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
   <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/7.png" width="700" alt="Categories"/>
 </p>
 
-
-## Features
-
-* Google Material Design
-* Mobile first, clean content focused, responsive layout designed for redability
-* Easy to install and setup
-* Developer friendly
-* Dark Theme Support with three options
-  - System default
-  - light mode
-  - dark mode
-* Progressive Web App (PWA) support
-  - Installable
-  - Fast and reliable
-  - PWA Optimized
-* Multilingual support
-* Right to Left Support
 
 ## Price
 ~91$~ 80$ or ~6600₹~ 5800₹ (INR)
