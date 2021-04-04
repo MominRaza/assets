@@ -1,6 +1,6 @@
 # Mayro Pro
 
-[![Release](https://img.shields.io/badge/release-v3.0-blue.svg?style=flat)](https://www.question2answer.org/qa/89784/)
+[![Release](https://img.shields.io/badge/release-v3.4-blue.svg?style=flat)](https://www.question2answer.org/qa/89985/)
 [![Q2A](https://img.shields.io/badge/Question2Answer-v1.8.5-blue.svg?style=flat)](https://github.com/q2a/question2answer/releases)
 
 Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
@@ -112,9 +112,7 @@ or
 
 **UPI for Indians:** Email me: iamfactsman@gmail.com
 
-<!-- <a href="https://www.question2answer.org/qa/89985/paypal-payment-discount-version-mayro-google-material-design?show=90525#a90525">
-  <img type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-</a> -->
+For offers and discussion go to [Q2A/MayroPro](https://www.question2answer.org/qa/89985/)
 
 
 ## Installation
