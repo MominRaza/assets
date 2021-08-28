@@ -24,6 +24,20 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
 * Right to Left Support
 
 
+## Price
+~80$~ 54$ or ~5900₹~ 4000₹ (INR)
+
+## Buy Now
+
+**PayPal for international:** https://paypal.me/mominr082
+
+or
+
+**UPI for Indians:** Email me: iamfactsman@gmail.com
+
+For offers and discussion go to [Q2A/MayroPro](https://www.question2answer.org/qa/89985/)
+
+
 ## Screenshots
 
 ### Pixle 2 XL
@@ -99,20 +113,6 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
   <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/8.png" width="700" alt="Categories"/>
   <img src="https://raw.githubusercontent.com/MominRaza/assets/main/Mayro%20Pro/7.png" width="700" alt="Categories"/>
 </p>
-
-
-## Price
-~80$~ 54$ or ~5900₹~ 4000₹ (INR)
-
-## Buy Now
-
-**PayPal for international:** https://paypal.me/mominr082
-
-or
-
-**UPI for Indians:** Email me: iamfactsman@gmail.com
-
-For offers and discussion go to [Q2A/MayroPro](https://www.question2answer.org/qa/89985/)
 
 
 ## Installation
