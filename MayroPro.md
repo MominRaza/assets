@@ -102,7 +102,7 @@ Google Material Design & PWA ready Theme for [Question2Answer ( Q2A )].
 
 
 ## Price
-~91$~ 80$ or ~6600₹~ 5800₹ (INR)
+~80$~ 54$ or ~5900₹~ 4000₹ (INR)
 
 ## Buy Now
 
